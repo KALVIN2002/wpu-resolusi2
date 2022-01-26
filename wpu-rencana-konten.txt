@@ -1,5 +1,6 @@
 javascipt
 framework javascipt
 php
+struktur data dasar
 interview
 vlog
