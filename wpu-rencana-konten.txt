@@ -1,6 +1,9 @@
 javascipt
 framework javascipt
+-angular
+-react
 php
+-laravel
 struktur data dasar
 interview
 vlog
