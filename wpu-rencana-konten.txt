@@ -1,6 +1,9 @@
 javascipt
 framework javascipt
+-vue
 php
+-laravel
 struktur data dasar
 interview
 vlog
+plyton
