@@ -1,6 +1,7 @@
 javascipt
 framework javascipt
 -vue
+-react
 php
 -laravel
 struktur data dasar
