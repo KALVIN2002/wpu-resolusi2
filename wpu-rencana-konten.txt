@@ -1,9 +1,10 @@
 javascipt
 framework javascipt
--angular
+-vue
 -react
 php
 -laravel
 struktur data dasar
 interview
 vlog
+plyton
